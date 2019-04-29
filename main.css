@@ -2,7 +2,7 @@
 
 
 body  {
-  background-color: #80ccff;
+  background-color: #BDEFFF;
 color: white;
 text-align: center;
 }
@@ -15,8 +15,12 @@ text-align: center;
   padding: 0;
   text-decoration: none;
 }
-body {
-
+h1 {
+ font-family: arial;
+ text-align: left;
+ color: white;
+ font-size: 50px;
+ margin-left: 70px;
 }
 nav {
   width: 100%;
@@ -34,9 +38,9 @@ ul li {
 }
 ul li a {
 text-decoration: none;
-font-size: 14px;
+font-size: 30px;
 font-family: arial;
 color: #1e1e1e;
 padding: 0 20px;
-display: block;
+display: block
 }
