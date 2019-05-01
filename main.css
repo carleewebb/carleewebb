@@ -47,6 +47,7 @@ display: block
 
 .sunset {
   float: left;
+  border-radius: 15px;
 }
 h2 {
   text-align: right;
