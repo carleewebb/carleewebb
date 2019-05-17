@@ -29,8 +29,12 @@ nav {
 }
 .profile {
   float: right;
-
+  margin-top: -60px;
 }
+.me {
+  text-align: center;
+}
+
 ul li {
   list-style: none;
   display: inline-block;
